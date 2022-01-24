@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/afshinatashian/afshinatashian.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can see my Project in this page
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ <!--About-->
+    <section id="about">
+        <div class="container">
 
-### Markdown
+            <div class="row">
+                <div class="col-md-6">
+                    <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+                    <div class="about-content">
+                        <h1>Afshin in a Nutshell</h1>
+                        <p style="font-size:21px;">
+                            <br> I am a data scientist. I believe that <strong> words and data are the two most powerful tools to change the world. </strong>
+                            <br><br>
+                            Most of my time is spent staring at a computer screen. During the day, I am usually programming, working to derive insight from large datasets. My skills include <strong>data analysis, visualization,Deep earning and machine learning.</strong>
+                            I often work on end-to-end data science projects that usually begin from collecting data from third party sources and end with delivering business insight in the form of customer segments.
 
-```markdown
-Syntax highlighted code block
+                            <br><br>
+                            At night, I take some time off to work on things I'm passionate about. 
+                            <br><br>
+                            You can take a look at some of my projects and articles in the section below. I will link my work to their GitHub repositories, so feel free to download my code and play around with it.
+                            Most of my education has come from online platforms.
+                            I have downloaded e-books, audited courses on edX and Coursera, and spent countless hours on sites like HackerRank and FreeCodeCamp. I am grateful to online educators who have given me the opportunity to learn these things, and for democratizing education.
+                            <br><br>
+                            I create starter code for data science and visualization projects and publish it for everyone to read.
+                            If you are a data science aspirant, please feel free to check out these tutorials on my blog site.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+                        </p>
 
-**Bold** and _Italic_ and `Code` text
+                    </div>
+                </div>
 
-[Link](url) and ![Image](src)
-```
+            </div>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afshinatashian/afshinatashian.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        </div>
+    </section>
